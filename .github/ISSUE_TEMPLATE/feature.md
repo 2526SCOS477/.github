@@ -14,9 +14,9 @@ assignees: ''
 
 ## 📋 Included User Stories
 *Link the individual User Story issues that make up this Feature here using #IssueNumber.*
-- [ ] #Story_1_Number
-- [ ] #Story_2_Number
-- [ ] #Story_3_Number
+- #Story_1_Number
+- #Story_2_Number
+- #Story_3_Number
 
 ---
 
