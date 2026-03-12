@@ -14,9 +14,10 @@ assignees: ''
 **I want to** [perform some action]
 **So that** [I can achieve some goal/value]
 
----
+## Story Point Estimate
+- [Put estimate here.  Use Fibonacci sequence: 1, 2, 3, 5, 8, etc...]
 
-## ✅ Acceptance Criteria
+## ✅ Acceptance Criteria (check off acceptance criteria as they are completed)
 *These are the conditions that must be met for this story to be marked as "Done".*
 - [ ] Criterion 1 (e.g., "User can click a 'Submit' button")
 - [ ] Criterion 2
@@ -26,9 +27,9 @@ assignees: ''
 
 ## 🛠 Tasks
 *Break the story down into implementable units. Use `#` to link to existing issues or create new ones.*
-- [ ] #Task_Issue_Number
-- [ ] #Task_Issue_Number
-- [ ] Preliminary Research/Design
+- #Task_Issue_Number
+- #Task_Issue_Number
+- Preliminary Research/Design
 
 ---
 
@@ -40,7 +41,7 @@ assignees: ''
 ## 📝 Additional Notes
 *Any edge cases, dependencies, or constraints to consider.*
 
-## Definition of Done
+## Definition of Done (check off items as they are completed)
 - [ ] All tasks completed
 - [ ] Pull request created and reviewed
 - [ ] Code merged into main
