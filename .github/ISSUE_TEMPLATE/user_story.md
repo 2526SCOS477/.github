@@ -39,3 +39,11 @@ assignees: ''
 
 ## 📝 Additional Notes
 *Any edge cases, dependencies, or constraints to consider.*
+
+## Definition of Done
+- [ ] All tasks completed
+- [ ] Pull request created and reviewed
+- [ ] Code merged into main
+- [ ] CI build successful
+- [ ] Tests passing
+- [ ] Feature demonstrated
